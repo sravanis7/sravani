@@ -18,11 +18,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/discussion/light)
-
 
 ## Languages and Tools
 
