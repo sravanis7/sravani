@@ -49,7 +49,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br/>
 
-[![Sravani's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sravanis7)](https://github.com/sravanis7/github-readme-stats)
+[![Sravani's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sravanisatpathy)](https://github.com/sravanis7/github-readme-stats)
 
 <br/>
 
