@@ -5,7 +5,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "50px" width="180px" ></a>
+<a href="https://www.buymeacoffee.com/sravanisatpathy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "50px" width="180px" ></a>
 
 <br/>
 
@@ -41,21 +41,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 </p>
 
-[![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10&count_private=True&show_icons=True)](https://github.com/Priteshraj10/github-readme-stats)
+[![Sravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sravanis7&count_private=True&show_icons=True)](https://github.com/sravanis7/github-readme-stats)
 
 <br/>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=10)](https://github.com/Priteshraj10/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanis7&langs_count=10)](https://github.com/sravanis7/github-readme-stats)
 
 <br/>
 
-[![Pritesh's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
+[![Sravani's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sravanis7)](https://github.com/sravanis7/github-readme-stats)
 
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/priteshraj10/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priteshraj10" height="50" width="50" /></a> <a href="https://stackoverflow.com/users/15358565/pritesh-raj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="pritesh-raj" height="50" width="50" /></a>
-<a href="https://www.kaggle.com/priteshraj10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="priteshraj10" height="50" width="50" /></a> <a href="https://priteshraj.medium.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@priteshraj" height="50" width="50" /></a> <a href="https://sheddinglightupon.wordpress.com" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sravani-satpathy/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="sravanis7" height="50" width="50" /></a> <a href="https://www.kaggle.com/sravanisatpathy" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="sravanis7" height="50" width="50" /></a> 
 </p>
